@@ -1,0 +1,13 @@
+C:\Users\home\source\repos\FootballTeam\Service\bin\Debug\netcoreapp3.0\Service.deps.json
+C:\Users\home\source\repos\FootballTeam\Service\bin\Debug\netcoreapp3.0\Service.dll
+C:\Users\home\source\repos\FootballTeam\Service\bin\Debug\netcoreapp3.0\Service.pdb
+C:\Users\home\source\repos\FootballTeam\Service\bin\Debug\netcoreapp3.0\DataAccess.dll
+C:\Users\home\source\repos\FootballTeam\Service\bin\Debug\netcoreapp3.0\Domain.dll
+C:\Users\home\source\repos\FootballTeam\Service\bin\Debug\netcoreapp3.0\DataAccess.pdb
+C:\Users\home\source\repos\FootballTeam\Service\bin\Debug\netcoreapp3.0\Domain.pdb
+C:\Users\home\source\repos\FootballTeam\Service\obj\Debug\netcoreapp3.0\Service.csprojAssemblyReference.cache
+C:\Users\home\source\repos\FootballTeam\Service\obj\Debug\netcoreapp3.0\Service.AssemblyInfoInputs.cache
+C:\Users\home\source\repos\FootballTeam\Service\obj\Debug\netcoreapp3.0\Service.AssemblyInfo.cs
+C:\Users\home\source\repos\FootballTeam\Service\obj\Debug\netcoreapp3.0\Service.csproj.CopyComplete
+C:\Users\home\source\repos\FootballTeam\Service\obj\Debug\netcoreapp3.0\Service.dll
+C:\Users\home\source\repos\FootballTeam\Service\obj\Debug\netcoreapp3.0\Service.pdb
